@@ -1,0 +1,6 @@
+Bill breakdown: 
+wrench:                   ... 100 
+screwdriver:              ... 12.99 
+coffee:                   ... 1.99 
+tip:                      ... $12.00 
+total:                    ... $126.98

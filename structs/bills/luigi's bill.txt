@@ -1,0 +1,6 @@
+Bill breakdown: 
+pie:                      ... 7.5 
+cake:                     ... 4.5 
+puddin:                   ... 2.19 
+tip:                      ... $5.00 
+total:                    ... $19.19
